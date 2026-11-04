@@ -88,8 +88,4 @@ plot(t, y);
 
 ## Reference
 
-Sharomi, O. & Gumel, A. B. (2008). Curtailing smoking dynamics: A mathematical modeling approach. *Applied Mathematics and Computation*, 195(2), 475–499.
-
-## License
-
-Add a license of your choice (e.g. MIT) here.
+Sharomi, O. & Gumel, A. B. (2008). Curtailing smoking dynamics: A mathematical modeling approach. *Applied Mathematics and Computation*
